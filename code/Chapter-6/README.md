@@ -5,4 +5,4 @@ This chapter explores interpretable models and post-hoc explanation with example
 
 # Code
 1. [GLM, GAM, and EBM code example](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/code/Chapter-6/GLM%2CGAM%20and%20EBM_code_example.ipynb)
-2. [Constrained_XGB and PostHoc Explanations](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/code/Chapter-6-EBM-XGBoost-XAI/Chapter-6_Constrained_XGB_and_Post_Hoc_Explanations.ipynb)
+2. [Constrained_XGB and PostHoc Explanations](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/code/Chapter-6/Constrained_XGB_and_Post_Hoc_Explanations.ipynb)
