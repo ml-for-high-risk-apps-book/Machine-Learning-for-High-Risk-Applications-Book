@@ -1,5 +1,5 @@
 
-# Code for Chapter 6: Chapter 6. Explainable Boosting Machines and Explaining XGBoost
+# Code for Chapter 6 -  Explainable Boosting Machines and Explaining XGBoost
 
 This chapter explores interpretable models and post-hoc explanation with examples relating to consumer finance. It also applies the approaches discussed in Chapter 2 using explainable boosting machines (EBMs), monotonically constrained XGBoost models, and post-hoc explanation techniques.
 
