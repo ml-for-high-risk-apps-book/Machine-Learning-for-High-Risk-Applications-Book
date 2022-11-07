@@ -4,6 +4,6 @@
 This chapter explores interpretable models and post-hoc explanation with examples relating to consumer finance. It also applies the approaches discussed in Chapter 2 using explainable boosting machines (EBMs), monotonically constrained XGBoost models, and post-hoc explanation techniques.
 
 # Code
-1. GLM, GAM, and EBM code example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jr4cOKC8MBZ5NB6P90JTLUhkaSn1V-8h?usp=sharing)     [![Open In GitHub](https://img.shields.io/badge/Github-code-green)](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/code/Chapter-6/GLM%2C_GAM%2C_and_EBM_code_example.ipynb)
+1. GLM, GAM, and EBM code example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jr4cOKC8MBZ5NB6P90JTLUhkaSn1V-8h?usp=sharing)     [![Open In GitHub](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/code/Chapter-6/GLM%2CGAM%20and%20EBM_code_example.ipynb)
 2. Constrained_XGB and PostHoc Explanations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xTmfqnL3SnmLfZ8B9UNC0-UxiJIMdNPv?usp=sharing)    [![Open In GitHub](https://img.shields.io/badge/Github-code-green)](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/code/Chapter-6/Constrained_XGB_and_Post_Hoc_Explanations.ipynb)
 
