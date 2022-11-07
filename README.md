@@ -1,6 +1,4 @@
 # Machine-Learning-for-High-Risk-Applications-Book
-Official code repo for the O'Reilly Book - Machine Learning for High-Risk Applications
-
 
 This is a companion repository for the book [Machine Learning for High-Risk Applications](https://learning.oreilly.com/library/view/machine-learning-for/9781098102425/)
 >
