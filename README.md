@@ -1,6 +1,9 @@
 # Machine-Learning-for-High-Risk-Applications-Book
 
 This is a companion repository for the book [Machine Learning for High-Risk Applications](https://learning.oreilly.com/library/view/machine-learning-for/9781098102425/)
+<img src="https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781098102425/files/assets/cover_ER_sponsor.png" width="300" height="400">
+
+
 >
 >A NOTE FOR EARLY RELEASE READERS
 With Early Release ebooks, you get books in their earliest form—the author’s raw and unedited content as they write—so you can take advantage of these technologies long before the official release of these titles.
