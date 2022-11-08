@@ -1,6 +1,5 @@
 
-# Code for Chapter 6 -  Explainable Boosting Machines and Explaining XGBoost
-
+# Code for Chapter 8 -  Debugging XGBoost
 This chapter will introduce several methods, that go beyond traditional model assessment, to push models to their limits and find hidden problems and failure modes. The chapter starts with a concept refresher and then focuses on model debugging exercises that better simulate real-world stresses with sensitivity analysis and tests that uncover model errors with residual analysis. The overarching goal of model debugging is to increase trust in model performance with human users, but in the process, we’ll also gain an increased level of transparency into models. 
 # Code
 1. GLM, GAM, and EBM code example <a href="https://colab.research.google.com/github/parulnith/Demo1/blob/master/GLM%2C_GAM%2C_and_EBM_code_example.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     [![Open In GitHub](https://img.shields.io/badge/Github-code-green)](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/code/Chapter-6/Constrained_XGB_and_Post_Hoc_Explanations.ipynb)
