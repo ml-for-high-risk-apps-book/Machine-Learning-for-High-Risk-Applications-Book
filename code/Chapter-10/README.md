@@ -4,4 +4,4 @@ This chapter focuses on technical implementations of bias testing and remediatio
 
 # Code
 
-1. Testing and Remediating Bias in an XGBoost Credit Model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1STUuI9pnzZ0XZbcBYKvk2l52L2904RYO?usp=sharing)   [![Open In GitHub](https://img.shields.io/badge/Github-code-green)](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/code/Chapter-10/Testing_and_Remediating_Bias_constrained.ipynb)
+1. Testing and Remediating Bias in an XGBoost Credit Model [![Open In Colab](https://githubtocolab.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/code/Chapter-10/Testing_and_Remediating_Bias_constrained.ipynb)   [![Open In GitHub](https://img.shields.io/badge/Github-code-green)](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/code/Chapter-10/Testing_and_Remediating_Bias_constrained.ipynb)
