@@ -3,4 +3,4 @@
 
 # Code
 
-1. 
+1. Data preparation <a href="https://githubtocolab.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/code/Chapter-7/0.Data%20Preparation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     [![Open In GitHub](https://img.shields.io/badge/Github-code-green)](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/code/Chapter-7/0.Data%20Preparation.ipynb)
