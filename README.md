@@ -47,5 +47,5 @@ The code for this book can be found in the following sections:
 
 
 <div align="center">
-    [![Book Cover](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/book.jpg)]
+    ![Alt text](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/book.jpg)
 </div>
