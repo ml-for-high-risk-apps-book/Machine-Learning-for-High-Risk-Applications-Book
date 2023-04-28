@@ -4,10 +4,10 @@ This is a companion repository for the book [Machine Learning for High-Risk Appl
 
 
 
-![Book Cover]([link-to-image](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/book.jpg)
+![Book Cover](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/blob/main/book.jpg)
 
-<a href="amazon-link">Amazon</a> |
-<a href="oreilly-link">O'Reilly</a>
+<a href="https://www.amazon.com/Machine-Learning-High-Risk-Applications-Responsible/dp/1098102436">Buy on Amazon</a> |
+<a href="https://learning.oreilly.com/library/view/machine-learning-for/9781098102425/">Read on O'Reilly</a>
             
 
 The past decade has witnessed the broad adoption of artificial intelligence and machine learning (AI/ML) technologies. However, a lack of oversight in their widespread implementation has resulted in some incidents and harmful outcomes that could have been avoided with proper risk management. Before we can realize AI/ML's true benefit, practitioners must understand how to mitigate its risks.
