@@ -24,9 +24,9 @@ The code for this book can be found in the following sections:
 
 | Chapter | Code Notebooks |
 | ------- | -------------- |
-| 6       | [Explainable Boosting Machines and Explaining XGBoost]([link-to-notebook-6](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/tree/main/code/Chapter-6)) |
-| 7       | [Explaining a PyTorch Image Classifier]([link-to-notebook-7](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/tree/main/code/Chapter-7%20%26%209)) |
-| 8       | [Debugging XGBoost]([link-to-notebook-8](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/tree/main/code/Chapter-8)) |
-| 9       | [Debugging a PyTorch Image Classifier]([link-to-notebook-9](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/tree/main/code/Chapter-7%20%26%209)) |
-| 10      | [Testing and Remediating Bias with XGBoost]([link-to-notebook-10](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/tree/main/code/Chapter-10)) |
-| 11      | [Red-teaming XGBoost]([link-to-notebook-11](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/tree/main/code/Chapter-11)) |
+| 6       | [Explainable Boosting Machines and Explaining XGBoost](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/tree/main/code/Chapter-6)) |
+| 7       | [Explaining a PyTorch Image Classifier](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/tree/main/code/Chapter-7%20%26%209)) |
+| 8       | [Debugging XGBoost](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/tree/main/code/Chapter-8)) |
+| 9       | [Debugging a PyTorch Image Classifier](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/tree/main/code/Chapter-7%20%26%209)) |
+| 10      | [Testing and Remediating Bias with XGBoost](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/tree/main/code/Chapter-10)) |
+| 11      | [Red-teaming XGBoost](https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book/tree/main/code/Chapter-11)) |
